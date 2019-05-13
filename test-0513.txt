@@ -1,7 +1,18 @@
 23243
 
+<<<<<<< .mine
 sdsad
 
 
+=======
+sdsad
 
+
+>>>>>>> .theirs
+dev -update -23:44
 update -wutao  23:46
+<<<<<<< .mine
+update -wutao  23:46
+=======
+
+>>>>>>> .theirs
