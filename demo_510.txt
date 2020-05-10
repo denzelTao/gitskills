@@ -6,3 +6,5 @@
 笑傲江湖，22：58
 
 Git is a distributed version control system. 23：12
+
+Git is free software distributed under the GPL. 23:18
