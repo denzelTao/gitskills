@@ -8,4 +8,4 @@
 2018-11-1  22:27 test-dev update
 
 
-2020-5-19  23:52 Creating a new branch is quick & AND simple.
+2020-5-19  23:52 Creating a new branch is quick AND simple.
